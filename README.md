@@ -4,10 +4,15 @@
 
 🌱 What I'm Learning: Most of my projects are born out of curiosity - “Why is this happening?”, “What changed?”, “How can we do better?” If I can break down something complex into a simple plan that sparks better decisions, that’s a win.
 
-📊 Tools I use to bring ideas to life: Python, R, SQL, Scikit-learn, PyTorch, dbt, Tableau, Snowflake, Power BI.
+📊 Tools I use to bring ideas to life: ![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Pythonb&logoColor=green)
+![snowflake](https://img.shields.io/badge/Snowflake-000000?style=for-the-badge&logo=Snowflake&logoColor=blue)
+![r](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=R&logoColor=white)
+![git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=SQL&logoColor=blue)
+![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=Tableau&logoColor=purple)
+![dbt](https://img.shields.io/badge/dbt-000000?style=for-the-badge&logo=dbt&logoColor=orange)
+![PowerBI](https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=PowerBI&logoColor=yellow)
 
 🧠 Currently geeking out over LLMs, time series insights, and building models that *talk back* (hello, chatbots 👋).
-
-🌍 Outside of work, you’ll find me hiking Washington trails or shopping 💃.
 
 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/tejaswirupa)
