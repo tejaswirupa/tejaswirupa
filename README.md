@@ -11,7 +11,6 @@
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=SQL&logoColor=blue)
 ![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=Tableau&logoColor=purple)
 ![dbt](https://img.shields.io/badge/dbt-000000?style=for-the-badge&logo=dbt&logoColor=orange)
-![PowerBI](https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=PowerBI&logoColor=yellow)
 
 🧠 Currently geeking out over LLMs, time series insights, and building models that *talk back* (hello, chatbots 👋).
 
