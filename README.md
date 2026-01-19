@@ -8,8 +8,8 @@
 ![Snowflake](https://img.shields.io/badge/Snowflake-000000?style=for-the-badge&logo=snowflake&logoColor=blue)
 ![R](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![AWS QuickSight](https://img.shields.io/badge/AWS%20QuickSight-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![dbt](https://img.shields.io/badge/dbt-000000?style=for-the-badge&logo=dbt&logoColor=orange)
+![QuickSight](https://img.shields.io/badge/AWS%20QuickSight-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![dbt](https://img.shields.io/badge/dbt-000000?style=for-the-badge&logo=dbtlabs&logoColor=FF694B)
 
 🧠 Currently geeking out over LLMs, time series insights, and building models that *talk back* (hello, chatbots 👋).
 
